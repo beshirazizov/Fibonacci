@@ -1,2 +1,1 @@
-# Fibonacci
-Fibonacci number calculator
+# Fibonacci calculator v1.3
